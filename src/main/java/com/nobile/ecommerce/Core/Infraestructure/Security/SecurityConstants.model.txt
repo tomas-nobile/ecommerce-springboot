@@ -1,0 +1,9 @@
+package com.nobile.ecommerce.Core.Infraestructure.Security;
+
+public class SecurityConstants {
+    public static final String SECRET_KEY = "";
+    public static final int TOKEN_EXPIRATION = ; 
+    public static final String BEARER = ""; 
+    public static final String AUTHORIZATION = "";
+    public static final String REGISTER_PATH = "";
+}
