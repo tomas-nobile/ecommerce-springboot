@@ -1,6 +1,6 @@
 # Instructions
 
-## Run a Postgres's server
+## Run a Postgres server
 
 ## Run Spring Boot application
 ```
