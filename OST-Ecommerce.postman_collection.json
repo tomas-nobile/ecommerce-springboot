@@ -108,7 +108,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer sk_test_51Ogp8NJjssZtHYxRq178b0MsNsFJp7llmfA1xjxhCNxwlTUKafhBUa38f7bz84mthDgKH93T5iFCAt5T1spuqo6w00v6Zw6J5e",
+						"value": "Bearer ",
 						"type": "text"
 					}
 				],
