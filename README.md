@@ -15,7 +15,7 @@ VALUES
     (2, 365, 'Yearly', 'usd', 90);
 ```
 
-## App flow - check postman collection out. 
+## App flow - check postman collection out and import it. 
 1. Register
 2. Authenticate
 3. Me
